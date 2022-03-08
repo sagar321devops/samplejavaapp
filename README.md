@@ -1,2 +1,2 @@
 
-Sample Java Applicaiton V3.19
+Sample Java Applicaiton V3.20
